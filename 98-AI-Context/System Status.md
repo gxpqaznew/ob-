@@ -25,6 +25,8 @@ tags:
 | Git push | Verified on `main` |
 | Obsidian Git | Installed, version 2.38.6 |
 | Obsidian Git settings | Pull on startup; 10-minute pull; 10-minute commit-and-sync; pull before push |
+| Obsidian Git runtime | Loaded in the correct `ob仓库` Vault |
+| Obsidian Git manual verification | Pull returned up to date; Commit-and-sync pushed successfully |
 | Web Clipper | Installed in Chrome, detected version 1.7.1 |
 | Automation scripts | Parsed and executed successfully |
 | Research Cleaner | Sample-tested; raw SHA-256 unchanged; metadata, tags, and Hub links generated |
@@ -32,17 +34,16 @@ tags:
 
 ## Not completed
 
-- Obsidian Git has not been runtime-loaded because Obsidian was already open during installation.
 - The `Research Capture` template has not been imported into the browser extension.
 - MarkDownload was not detected as installed.
+- Automated Chrome control is unavailable until the ChatGPT Chrome Extension is enabled or reinstalled.
 - No real research corpus exists yet, so evidence-based domain folders and frequency-derived Topic Hubs cannot be generated.
 
 ## Manual actions
 
-1. Restart Obsidian.
-2. Confirm the community plugin **Git** is enabled, then run one Pull and one Commit-and-sync.
-3. In Obsidian Web Clipper, import `98-AI-Context/Integrations/Research Capture.json`.
-4. If using MarkDownload, install it and set its download directory to `C:\ob仓库\ob仓库\00-Inbox\Downloaded`.
+1. Enable or reinstall the ChatGPT Chrome Extension from the Codex plugin interface.
+2. In Obsidian Web Clipper, import `98-AI-Context/Integrations/Research Capture.json`.
+3. If using MarkDownload, install it and set its download directory to `C:\ob仓库\ob仓库\00-Inbox\Downloaded`.
 
 ## User information still needed
 
