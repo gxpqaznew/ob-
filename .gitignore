@@ -1,0 +1,20 @@
+# Obsidian machine-local state
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache/
+
+# Operating-system and editor noise
+.DS_Store
+Thumbs.db
+desktop.ini
+*.tmp
+*.temp
+*.swp
+*.bak
+~$*
+
+# Local trash and generated transient files
+.trash/
+00-Inbox/Cleaned/.processing/
+
+\n
