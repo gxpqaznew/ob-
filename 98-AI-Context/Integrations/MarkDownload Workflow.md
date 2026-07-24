@@ -1,6 +1,6 @@
 ---
 type: integration-guide
-status: needs-manual-browser-step
+status: replaced
 tags:
   - workflow/research
   - topic/obsidian
@@ -8,11 +8,13 @@ tags:
 
 # MarkDownload Workflow
 
+> MarkDownload's original Chrome extension is no longer available because Chrome reports that it does not follow current extension best practices. Do not bypass Chrome's protection. This Vault uses the imported **Obsidian Web Clipper / Research Capture** template instead.
+
 ## Pipeline
 
 ```text
 Web page
-  ↓ MarkDownload
+  ↓ Obsidian Web Clipper / Research Capture
 00-Inbox/Downloaded
   ↓ Research-Cleaner.ps1
 00-Inbox/Cleaned
@@ -22,15 +24,14 @@ Web page
 topic tags + Topic Hub links
 ```
 
-## MarkDownload settings
+## Capture settings
 
-- Download directory: `C:\ob仓库\ob仓库\00-Inbox\Downloaded`
-- Include source URL: enabled.
-- Include frontmatter: enabled when available.
-- Keep article body: enabled.
+- Destination: `00-Inbox/Downloaded`
+- Preserve title, source URL, author, capture time, and article body.
+- Use the imported `Research Capture` template.
 - Do not overwrite existing files without confirmation.
 
-Browser extensions cannot silently change the browser's download directory. Set the directory in MarkDownload or choose it in the Save dialog.
+No MarkDownload installation is required.
 
 ## Clean
 
