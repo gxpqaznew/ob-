@@ -1,7 +1,7 @@
 {
-  "attachmentFolderPath": "00-Inbox/Attachments",
+  "attachmentFolderPath": "00-收件箱/附件",
   "newFileLocation": "folder",
-  "newFileFolderPath": "00-Inbox",
+  "newFileFolderPath": "00-收件箱",
   "alwaysUpdateLinks": true,
   "useMarkdownLinks": false,
   "showUnsupportedFiles": true

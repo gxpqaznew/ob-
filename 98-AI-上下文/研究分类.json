@@ -1,0 +1,77 @@
+{
+  "version": 1,
+  "defaultCategory": "通用",
+  "categories": [
+    {
+      "name": "通用",
+      "keywords": []
+    }
+  ],
+  "topics": [
+    {
+      "slug": "agent",
+      "hub": "AI Agent主题中心",
+      "keywords": ["AI agent", "agentic", "智能体", "代理工作流"]
+    },
+    {
+      "slug": "codex",
+      "hub": "Codex主题中心",
+      "keywords": ["Codex", "OpenAI Codex"]
+    },
+    {
+      "slug": "claude-code",
+      "hub": "Claude Code主题中心",
+      "keywords": ["Claude Code"]
+    },
+    {
+      "slug": "prompt",
+      "hub": "提示词主题中心",
+      "keywords": ["prompt", "提示词", "提示工程"]
+    },
+    {
+      "slug": "workflow",
+      "hub": "工作流主题中心",
+      "keywords": ["workflow", "工作流", "流程自动化"]
+    },
+    {
+      "slug": "mcp",
+      "hub": "MCP主题中心",
+      "keywords": ["Model Context Protocol", "MCP"]
+    },
+    {
+      "slug": "obsidian",
+      "hub": "Obsidian主题中心",
+      "keywords": ["Obsidian"]
+    },
+    {
+      "slug": "github",
+      "hub": "GitHub主题中心",
+      "keywords": ["GitHub", "Git repository", "Git 仓库"]
+    },
+    {
+      "slug": "content-creation",
+      "hub": "内容创作主题中心",
+      "keywords": ["content creation", "内容创作", "内容生产", "视频脚本"]
+    },
+    {
+      "slug": "monetization",
+      "hub": "商业化主题中心",
+      "keywords": ["monetization", "商业化", "变现", "收入模式"]
+    },
+    {
+      "slug": "seo",
+      "hub": "SEO主题中心",
+      "keywords": ["SEO", "搜索引擎优化"]
+    },
+    {
+      "slug": "crypto",
+      "hub": "加密货币主题中心",
+      "keywords": ["crypto", "cryptocurrency", "加密货币", "区块链"]
+    },
+    {
+      "slug": "us-stocks",
+      "hub": "美股主题中心",
+      "keywords": ["US stocks", "美股", "NYSE", "NASDAQ"]
+    }
+  ]
+}

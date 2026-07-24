@@ -1,6 +1,6 @@
 {
-  "folder": "00-Inbox",
+  "folder": "00-收件箱",
   "format": "YYYY-MM-DD",
-  "template": "90-Templates/Daily Note Template",
+  "template": "90-模板/每日笔记模板",
   "autorun": false
 }
