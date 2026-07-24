@@ -52,5 +52,3 @@
   ],
   "noteContentFormat": "# {{title}}\n\n> [!source]\n> **Source:** {{url}}  \n> **Author:** {{author}}  \n> **Published:** {{published}}  \n> **Captured:** {{date}}\n\n## Original content\n\n{{content}}\n"
 }
-
-\n

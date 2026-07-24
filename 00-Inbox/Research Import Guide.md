@@ -37,4 +37,3 @@ powershell.exe -NoProfile -ExecutionPolicy Bypass -File ".\98-AI-Context\Automat
 ```
 
 Add `-Promote` only when you want cleaned copies moved into their primary research category.
-\n

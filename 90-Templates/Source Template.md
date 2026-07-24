@@ -21,12 +21,10 @@ tags:
 > **Published:**
 > **Captured:** {{date:YYYY-MM-DD}}
 
-## Original conten
+## Original content
 
 ## Citations and locations
 
 ## Related research
 
 -
-
-\n

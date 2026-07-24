@@ -1,11 +1,11 @@
 ---
-type: ai-contex
+type: ai-context
 status: active
 tags:
-  - system/agen
+  - system/agent
 ---
 
-# AI Operating Contex
+# AI Operating Context
 
 ## Mission
 
@@ -28,7 +28,7 @@ Maintain a durable, source-aware, Markdown-first knowledge base that supports re
 - Update project state after meaningful progress.
 - Preserve provenance.
 
-## Agent handoff contrac
+## Agent handoff contract
 
 At the end of substantial work, record:
 
@@ -39,5 +39,3 @@ At the end of substantial work, record:
 - the next concrete action.
 
 Do not store the entire conversation.
-
-\n

@@ -1,6 +1,6 @@
 ---
-type: ai-contex
-status: needs-inpu
+type: ai-context
+status: needs-input
 tags:
   - context/platform
 ---
@@ -16,5 +16,3 @@ No publishing platform has been confirmed. Platform-specific directories and wor
 - Long-form or short-form priority:
 - Publishing cadence:
 - Existing audience or account links:
-
-\n

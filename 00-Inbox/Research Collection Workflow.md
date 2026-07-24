@@ -8,7 +8,7 @@ tags:
 
 # Research Collection Workflow
 
-```tex
+```text
 Web Clipper / MarkDownload / Manual Note
                   ↓
        00-Inbox/Downloaded
@@ -23,7 +23,7 @@ Web Clipper / MarkDownload / Manual Note
                   ↓
     Topic tags + internal links
                   ↓
- Topic Hubs / Projects / Conten
+ Topic Hubs / Projects / Content
 ```
 
 ## Non-negotiable rules
@@ -32,5 +32,3 @@ Web Clipper / MarkDownload / Manual Note
 - Cleaning improves Markdown structure without deleting or summarizing.
 - Every promoted note has one primary category and may have many topic tags.
 - Project or content work links to research instead of copying it.
-
-\n

@@ -13,5 +13,3 @@ tags:
 - Record decisions with rationale and date.
 - Run the audit after structural or bulk-import changes.
 - Commit small, reviewable changes and never commit secrets.
-
-\n

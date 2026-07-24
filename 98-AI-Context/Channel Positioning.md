@@ -1,8 +1,8 @@
 ---
-type: ai-contex
-status: needs-inpu
+type: ai-context
+status: needs-input
 tags:
-  - context/conten
+  - context/content
 ---
 
 # Channel Positioning
@@ -15,5 +15,3 @@ tags:
 - Desired reputation:
 - Primary language and region:
 - Topics explicitly out of scope:
-
-\n

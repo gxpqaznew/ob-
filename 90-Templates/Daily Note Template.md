@@ -28,5 +28,3 @@ tags:
 - Completed:
 - Learned:
 - Next:
-
-\n

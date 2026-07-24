@@ -18,5 +18,3 @@ tags:
 - `Cover Design` — thumbnails, covers, and visual directions.
 
 Use [[90-Templates/Prompt Template]] for new prompts and follow [[89-Prompts/Prompt Library Guide|Prompt Library Guide]].
-
-\n

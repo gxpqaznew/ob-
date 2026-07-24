@@ -1,6 +1,6 @@
 ---
-type: ai-contex
-status: needs-inpu
+type: ai-context
+status: needs-input
 tags:
   - context/user
 ---
@@ -20,5 +20,3 @@ tags:
 - Current products or businesses:
 - Preferred depth and technical level:
 - Privacy or compliance constraints:
-
-\n

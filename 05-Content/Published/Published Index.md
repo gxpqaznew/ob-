@@ -14,5 +14,3 @@ For every published item, record:
 - source research;
 - results or feedback;
 - lessons worth reusing.
-
-\n

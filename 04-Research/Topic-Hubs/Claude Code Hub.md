@@ -25,7 +25,3 @@ Research, workflows, configuration, and projects involving Claude Code.
 - [[Workflow Hub]]
 - [[GitHub Hub]]
 - [[Prompt Hub]]
-
-
-
-\n

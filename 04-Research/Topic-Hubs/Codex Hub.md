@@ -25,7 +25,3 @@ Research, workflows, configuration, and projects involving OpenAI Codex.
 - [[Workflow Hub]]
 - [[GitHub Hub]]
 - [[Prompt Hub]]
-
-
-
-\n

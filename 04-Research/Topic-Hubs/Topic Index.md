@@ -22,5 +22,3 @@ Topic Hubs connect research across folder boundaries. A research note keeps one 
 - [[04-Research/Topic-Hubs/Content Creation Hub|Content Creation]]
 
 These are system seed topics. New hubs should be created only when repeated evidence appears in `04-Research`, not for every isolated tag.
-
-\n

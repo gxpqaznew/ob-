@@ -25,7 +25,3 @@ Research-to-content systems, ideation, scripting, publishing, distribution, and 
 - [[Workflow Hub]]
 - [[Obsidian Hub]]
 - [[05-Content/Content Index|Content System]]
-
-
-
-\n

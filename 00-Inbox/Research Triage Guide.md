@@ -24,5 +24,3 @@ Process Inbox items using this order:
 - at least one useful internal link;
 - no raw source was overwritten;
 - Inbox copy is either retained as raw evidence or archived.
-
-\n

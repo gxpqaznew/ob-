@@ -2,7 +2,7 @@
 type: index
 status: active
 tags:
-  - system/conten
+  - system/content
 ---
 
 # Content Index
@@ -22,5 +22,3 @@ tags:
 5. After release, move the final version to `Published` and record URL, date, platform, and lessons.
 
 Platform-specific folders are intentionally not created until channel choices are confirmed in [[98-AI-Context/Platform Strategy]].
-
-\n

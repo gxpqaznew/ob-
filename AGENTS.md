@@ -2,7 +2,7 @@
 
 This vault is a durable knowledge system shared by humans and AI agents such as Codex, Claude Code, and Cursor.
 
-## Read firs
+## Read first
 
 Before substantial work, read:
 
@@ -59,5 +59,3 @@ Update it after meaningful progress.
 - Review changed files before committing.
 - Run `98-AI-Context/Automation/Knowledge-Base-Audit.ps1` after structural changes.
 - Do not commit secrets, tokens, local caches, or machine-specific workspace state.
-
-\n

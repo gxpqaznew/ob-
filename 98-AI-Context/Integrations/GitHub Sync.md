@@ -2,7 +2,7 @@
 type: integration-guide
 status: active
 tags:
-  - workflow/gi
+  - workflow/git
   - topic/github
   - topic/obsidian
 ---
@@ -31,5 +31,3 @@ If automatic sync reports a conflict:
 2. Open Git history and inspect both versions.
 3. Preserve both source variants when meaning is uncertain.
 4. Resolve, run the audit, commit, and push.
-
-\n

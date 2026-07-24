@@ -25,15 +25,13 @@ The vault contains architecture and workflow knowledge. `04-Research` did not co
 
 ## System relationships
 
-```tex
+```text
 Sources → Research → Topic Hubs
                     ↘ Projects
                     ↘ Content → Published work
 
 Decisions / lessons / proven workflows → AI Memory
-Current priorities / strategy / style   → AI Contex
+Current priorities / strategy / style   → AI Context
 ```
 
 Run the Knowledge Base Audit after importing research to refresh frequency and orphan analysis.
-
-\n

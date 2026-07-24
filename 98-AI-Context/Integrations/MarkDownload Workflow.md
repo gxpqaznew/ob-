@@ -10,7 +10,7 @@ tags:
 
 ## Pipeline
 
-```tex
+```text
 Web page
   ↓ MarkDownload
 00-Inbox/Downloaded
@@ -53,4 +53,3 @@ powershell.exe -NoProfile -ExecutionPolicy Bypass -File ".\98-AI-Context\Automat
 - conservative formatting recognizes common headings and numbered lists;
 - long paragraphs may receive extra line breaks, but source wording is not rewritten or removed;
 - topic tags and Topic Hub links are added from `Research Taxonomy.json`.
-\n

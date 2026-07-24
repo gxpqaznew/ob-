@@ -2,8 +2,8 @@
 type: guide
 status: active
 tags:
-  - workflow/promp
-  - topic/promp
+  - workflow/prompt
+  - topic/prompt
 ---
 
 # Prompt Library Guide
@@ -38,5 +38,3 @@ A prompt lives in exactly one category folder. Use topic tags and links for seco
 5. Update version and change notes.
 
 Never store API keys, tokens, personal secrets, or raw private conversations.
-
-\n

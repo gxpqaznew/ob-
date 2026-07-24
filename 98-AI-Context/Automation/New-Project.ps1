@@ -32,5 +32,3 @@ $content = $content.Replace('<Project Name>', $safeName)
 $content = $content.Replace('{{date:YYYY-MM-DD}}', (Get-Date -Format 'yyyy-MM-dd'))
 Set-Content -LiteralPath $statusPath -Value $content -Encoding utf8
 Write-Output "Created project: $projectPath"
-
-\n

@@ -32,5 +32,3 @@ tags:
 ## Related hubs
 
 -
-
-\n

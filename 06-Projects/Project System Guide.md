@@ -2,14 +2,14 @@
 type: guide
 status: active
 tags:
-  - workflow/projec
+  - workflow/project
 ---
 
 # Project System Guide
 
 ## Required structure
 
-```tex
+```text
 06-Projects/
 └─ <Project Name>/
    └─ Project-Status.md
@@ -29,5 +29,3 @@ After meaningful work, update:
 - decisions and rationale.
 
 Research remains in `04-Research`; link to it from the project instead of duplicating it.
-
-\n

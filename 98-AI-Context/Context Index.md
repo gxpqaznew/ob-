@@ -2,7 +2,7 @@
 type: index
 status: active
 tags:
-  - system/ai-contex
+  - system/ai-context
 ---
 
 # AI Context Index
@@ -28,5 +28,3 @@ tags:
 - [[98-AI-Context/Integrations/GitHub Sync|GitHub Sync]]
 - [[98-AI-Context/Integrations/Web Clipper Setup|Web Clipper Setup]]
 - [[98-AI-Context/Integrations/MarkDownload Workflow|MarkDownload Workflow]]
-
-\n

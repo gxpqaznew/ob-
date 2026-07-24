@@ -7,6 +7,7 @@ $ErrorActionPreference = 'Stop'
 $generatedAt = Get-Date
 $reportPath = Join-Path $VaultPath '98-AI-Context\Knowledge Base Audit Report.md'
 $researchRoot = Join-Path $VaultPath '04-Research'
+$gitMetadataPath = Join-Path $VaultPath '.git'
 
 function Get-RelativePath {
     param([string]$Path)
@@ -35,9 +36,11 @@ function Format-ListSection {
     return @($Items | ForEach-Object { '- `' + $_ + '`' })
 }
 
-$allFiles = @(Get-ChildItem -LiteralPath $VaultPath -Recurse -File -Force)
+$allFiles = @(Get-ChildItem -LiteralPath $VaultPath -Recurse -File -Force |
+    Where-Object { -not $_.FullName.StartsWith($gitMetadataPath, [StringComparison]::OrdinalIgnoreCase) })
 $markdownFiles = @($allFiles | Where-Object { $_.Extension -eq '.md' })
-$directories = @(Get-ChildItem -LiteralPath $VaultPath -Recurse -Directory -Force)
+$directories = @(Get-ChildItem -LiteralPath $VaultPath -Recurse -Directory -Force |
+    Where-Object { -not $_.FullName.StartsWith($gitMetadataPath, [StringComparison]::OrdinalIgnoreCase) })
 $researchFiles = @($markdownFiles | Where-Object {
     $_.FullName.StartsWith($researchRoot, [StringComparison]::OrdinalIgnoreCase) -and
     $_.DirectoryName -notlike '*\Topic-Hubs' -and
@@ -197,10 +200,10 @@ $report = @(
     ''
     '## Inventory'
     ''
-    '- Directories: ' + $directories.Coun
-    '- Files: ' + $allFiles.Coun
-    '- Markdown notes: ' + $markdownFiles.Coun
-    '- Research notes excluding indexes and hubs: ' + $researchFiles.Coun
+    '- Directories: ' + $directories.Count
+    '- Files: ' + $allFiles.Count
+    '- Markdown notes: ' + $markdownFiles.Count
+    '- Research notes excluding indexes and hubs: ' + $researchFiles.Count
     ''
     '## Duplicate content'
     ''
@@ -245,10 +248,8 @@ $report = @(
     } else {
         '- Resolve conflicts and broken links, then review high-frequency topics for new or merged Topic Hubs.'
     })
-    ''
 ) -join "`n"
 
 Set-Content -LiteralPath $reportPath -Value $report -Encoding utf8
 Write-Output "Audit report written: $reportPath"
 Write-Output "Score: $score/100"
-\n

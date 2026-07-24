@@ -36,5 +36,3 @@ updated: "{{date:YYYY-MM-DD}}"
 ## Related notes
 
 -
-
-\n

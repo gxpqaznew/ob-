@@ -13,5 +13,3 @@ tags:
 | 2026-07-24 | Treat `00-Inbox/Downloaded` as immutable source evidence. | Cleaning must never destroy or silently alter the original. |
 | 2026-07-24 | Use `General` until actual research domains are confirmed. | Avoid a speculative directory tree. |
 | 2026-07-24 | Do not store AI chat transcripts as memory. | Keep memory compact, durable, and useful to future agents. |
-
-\n

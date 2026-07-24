@@ -1,8 +1,8 @@
 ---
-type: ai-contex
-status: draf
+type: ai-context
+status: draft
 tags:
-  - context/conten
+  - context/content
 ---
 
 # Content Strategy
@@ -19,5 +19,3 @@ tags:
 - Published results and feedback feed back into future briefs.
 
 Platform, cadence, positioning, and primary formats still require user input.
-
-\n

@@ -37,4 +37,3 @@ tags:
 ## Core flow
 
 `Capture → Triage → Clean → Research → Link → Create → Publish → Archive`
-\n

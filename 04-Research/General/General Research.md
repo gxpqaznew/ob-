@@ -11,5 +11,3 @@ tags:
 Temporary home for research that has no confirmed domain classification.
 
 When a real domain becomes established, move the note to that domain and update its `category` property. Do not create speculative domain trees.
-
-\n

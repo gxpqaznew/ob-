@@ -15,5 +15,3 @@ tags:
 - Keep one primary folder classification with multiple topic tags.
 - Do not save chat transcripts; preserve only durable decisions, workflows, lessons, preferences, and project state.
 - Clearly identify manual steps and missing inputs.
-
-\n

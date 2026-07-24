@@ -15,5 +15,3 @@ tags:
 - [[90-Templates/Content Brief Template|Content Brief Template]]
 - [[90-Templates/Topic Hub Template|Topic Hub Template]]
 - [[90-Templates/Research Capture|Research Capture]]
-
-\n

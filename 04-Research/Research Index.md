@@ -21,5 +21,3 @@ tags:
 ## Classification rule
 
 Each research note belongs to exactly one primary category directory. Cross-domain meaning is represented with `topic/...` tags and Topic Hub links, not duplicate files.
-
-\n

@@ -1,15 +1,15 @@
 ﻿---
-type: audit-repor
+type: audit-report
 status: complete
-generated_at: "2026-07-24 12:04:04"
+generated_at: "2026-07-24 12:10:28"
 score: 100
 tags:
-  - system/audi
+  - system/audit
 ---
 
-# Knowledge Base Audit Repor
+# Knowledge Base Audit Report
 
-> Generated: 2026-07-24 12:04:04
+> Generated: 2026-07-24 12:10:28
 
 ## Score
 
@@ -17,12 +17,12 @@ tags:
 
 ## Inventory
 
-- Directories: 39
-- Files: 111
+- Directories: 30
+- Files: 91
 - Markdown notes: 63
 - Research notes excluding indexes and hubs: 0
 
-## Duplicate conten
+## Duplicate content
 
 - None.
 
@@ -38,10 +38,6 @@ tags:
 
 > Directories containing only `.gitkeep` are listed so intentional placeholders remain visible.
 
-- `.git/objects/info`
-- `.git/objects/pack`
-- `.git/refs/heads`
-- `.git/refs/tags`
 - `00-Inbox/Attachments`
 - `00-Inbox/Cleaned`
 - `00-Inbox/Downloaded`
@@ -82,5 +78,3 @@ tags:
 ## Recommended action
 
 - Import real research material before creating domain-specific taxonomies or additional Topic Hubs.
-
-\n

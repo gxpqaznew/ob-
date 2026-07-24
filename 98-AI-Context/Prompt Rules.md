@@ -1,9 +1,9 @@
 ---
-type: ai-contex
+type: ai-context
 status: active
 tags:
-  - context/promp
-  - topic/promp
+  - context/prompt
+  - topic/prompt
 ---
 
 # Prompt Rules
@@ -16,5 +16,3 @@ tags:
 - Request a concise change summary, validation result, risks, and next action.
 - Never include secrets or credentials.
 - Store only reusable prompts in `89-Prompts`; one-off instructions stay with the task or project.
-
-\n

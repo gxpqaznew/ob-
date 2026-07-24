@@ -2,11 +2,9 @@
 type: index
 status: active
 tags:
-  - content/scrip
+  - content/script
 ---
 
 # Scripts Index
 
 Drafts belong here after the idea has a clear audience, promise, evidence base, and intended channel.
-
-\n

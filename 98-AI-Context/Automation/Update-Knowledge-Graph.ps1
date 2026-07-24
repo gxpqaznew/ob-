@@ -73,5 +73,3 @@ foreach ($topic in $taxonomy.topics) {
 }
 
 Write-Output "Knowledge graph updated from $($notes.Count) research notes."
-
-\n

@@ -25,7 +25,3 @@ Obsidian architecture, capture, plugins, templates, synchronization, retrieval, 
 - [[GitHub Hub]]
 - [[AI Agent Hub]]
 - [[Content Creation Hub]]
-
-
-
-\n

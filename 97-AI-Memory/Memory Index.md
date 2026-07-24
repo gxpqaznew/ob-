@@ -20,5 +20,3 @@ Store durable knowledge, not chat transcripts.
 - [[97-AI-Memory/Successful Projects|Successful Projects]]
 - [[97-AI-Memory/Future Ideas|Future Ideas]]
 - [[97-AI-Memory/User Preferences|User Preferences]]
-
-\n

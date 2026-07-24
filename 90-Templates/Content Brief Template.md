@@ -40,5 +40,3 @@ tags:
 ## Distribution and repurposing
 
 ## Success metric
-
-\n

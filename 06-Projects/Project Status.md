@@ -20,4 +20,3 @@ powershell.exe -NoProfile -ExecutionPolicy Bypass -File ".\98-AI-Context\Automat
 ```
 
 The project status note records current state, completed work, outstanding tasks, next action, risks, and decisions.
-\n

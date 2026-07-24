@@ -214,7 +214,7 @@ foreach ($file in $sourceFiles) {
         '> **URL:** ' + $(if ($sourceUrl) { $sourceUrl } else { 'Not detected' })
         '> **Author:** ' + $(if ($author) { $author } else { 'Not detected' })
         '> **Published:** ' + $(if ($published) { $published } else { 'Not detected' })
-        '> **Captured:** ' + $capturedA
+        '> **Captured:** ' + $capturedAt
         '> **Raw source:** `' + $relativeSource + '`'
         '> **SHA-256:** `' + $sourceHash + '`'
         ''
@@ -241,4 +241,3 @@ if ($Promote -and (Test-Path -LiteralPath $graphScript)) {
 }
 
 Write-Output "Processed: $processed; skipped: $skipped; raw sources changed: 0."
-\n

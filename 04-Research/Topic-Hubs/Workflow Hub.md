@@ -25,7 +25,3 @@ Repeatable sequences of actions, checks, handoffs, and automation.
 - [[Prompt Hub]]
 - [[MCP Hub]]
 - [[Obsidian Hub]]
-
-
-
-\n

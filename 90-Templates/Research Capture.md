@@ -19,8 +19,6 @@ tags:
 > **Published:** {{published}}
 > **Captured:** {{date:YYYY-MM-DD HH:mm}}
 
-## Original conten
+## Original content
 
 {{content}}
-
-\n

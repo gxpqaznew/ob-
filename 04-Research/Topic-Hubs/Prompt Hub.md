@@ -1,9 +1,9 @@
 ﻿---
 type: topic-hub
-topic: Promp
+topic: Prompt
 status: seed
 tags:
-  - topic/promp
+  - topic/prompt
   - system/topic-hub
 ---
 
@@ -25,7 +25,3 @@ Prompt design, reusable instruction patterns, output contracts, evaluation, and 
 - [[Workflow Hub]]
 - [[Content Creation Hub]]
 - [[89-Prompts/Prompt Index|Prompt Library]]
-
-
-
-\n

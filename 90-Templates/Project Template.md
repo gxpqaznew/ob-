@@ -6,7 +6,7 @@ owner:
 created: "{{date:YYYY-MM-DD}}"
 updated: "{{date:YYYY-MM-DD}}"
 tags:
-  - projec
+  - project
 ---
 
 # <Project Name> — Project Status
@@ -44,5 +44,3 @@ tags:
 ## Related research
 
 -
-
-\n

@@ -1,6 +1,6 @@
 ---
-type: ai-contex
-status: needs-inpu
+type: ai-context
+status: needs-input
 tags:
   - context/style
 ---
@@ -21,5 +21,3 @@ tags:
 - Typical length:
 - Use of first person:
 - Words, clichés, or styles to avoid:
-
-\n

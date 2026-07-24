@@ -24,7 +24,3 @@ Version control, repositories, collaboration, review, automation, and knowledge-
 - [[Obsidian Hub]]
 - [[AI Agent Hub]]
 - [[Workflow Hub]]
-
-
-
-\n

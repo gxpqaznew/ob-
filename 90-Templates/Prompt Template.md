@@ -1,11 +1,11 @@
 ---
 title: "{{title}}"
-type: promp
+type: prompt
 category:
 version: 0.1.0
-status: draf
+status: draft
 tags:
-  - promp
+  - prompt
 created: "{{date:YYYY-MM-DD}}"
 updated: "{{date:YYYY-MM-DD}}"
 ---
@@ -16,9 +16,9 @@ updated: "{{date:YYYY-MM-DD}}"
 
 ## Required inputs
 
-## Promp
+## Prompt
 
-```tex
+```text
 Role:
 
 Goal:
@@ -32,7 +32,7 @@ Output:
 Quality checks:
 ```
 
-## Output contrac
+## Output contract
 
 ## Test case
 
@@ -41,5 +41,3 @@ Quality checks:
 ## Change notes
 
 - 0.1.0 — Initial draft.
-
-\n

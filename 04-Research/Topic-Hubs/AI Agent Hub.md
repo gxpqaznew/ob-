@@ -1,9 +1,9 @@
 ﻿---
 type: topic-hub
-topic: AI Agen
+topic: AI Agent
 status: seed
 tags:
-  - topic/agen
+  - topic/agent
   - system/topic-hub
 ---
 
@@ -25,7 +25,3 @@ Agents that inspect context, use tools, take actions, verify results, and preser
 - [[Claude Code Hub]]
 - [[Workflow Hub]]
 - [[MCP Hub]]
-
-
-
-\n
