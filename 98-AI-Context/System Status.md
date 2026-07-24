@@ -28,22 +28,20 @@ tags:
 | Obsidian Git runtime | Loaded in the correct `ob仓库` Vault |
 | Obsidian Git manual verification | Pull returned up to date; Commit-and-sync pushed successfully |
 | Web Clipper | Installed in Chrome, detected version 1.7.1 |
+| Web Clipper template | `Research Capture` imported; target folder is `00-Inbox/Downloaded` |
 | Automation scripts | Parsed and executed successfully |
 | Research Cleaner | Sample-tested; raw SHA-256 unchanged; metadata, tags, and Hub links generated |
 | Knowledge Base Audit | 100/100 structural score |
 
 ## Not completed
 
-- The `Research Capture` template has not been imported into the browser extension.
 - MarkDownload was not detected as installed.
 - Automated Chrome control is unavailable until the ChatGPT Chrome Extension is enabled or reinstalled.
 - No real research corpus exists yet, so evidence-based domain folders and frequency-derived Topic Hubs cannot be generated.
 
 ## Manual actions
 
-1. Enable or reinstall the ChatGPT Chrome Extension from the Codex plugin interface.
-2. In Obsidian Web Clipper, import `98-AI-Context/Integrations/Research Capture.json`.
-3. If using MarkDownload, install it and set its download directory to `C:\ob仓库\ob仓库\00-Inbox\Downloaded`.
+1. If using MarkDownload, install it and set its download directory to `C:\ob仓库\ob仓库\00-Inbox\Downloaded`.
 
 ## User information still needed
 
