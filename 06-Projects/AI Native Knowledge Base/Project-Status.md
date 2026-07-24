@@ -1,5 +1,5 @@
 ﻿---
-title: "AI Native Knowledge Base"
+title: "AI 原生知识库"
 type: project-status
 status: active
 owner: gxpqaznew
@@ -9,55 +9,56 @@ tags:
   - project
 ---
 
-# AI Native Knowledge Base — Project Status
+# AI 原生知识库 — 项目状态
 
-## Current status
+## 当前状态
 
-**Stage:** Foundation implemented; integration handoff pending
-**Objective:** Build a durable AI-native Obsidian knowledge system with GitHub sync, knowledge graph, research processing, projects, prompts, memory, and content workflows.
-**Success criteria:** The Vault is structurally valid, scripts pass checks, GitHub push succeeds, Obsidian Git loads after restart, capture templates work, and real research can be classified without duplication.
+**阶段：** 基础架构和主要集成已完成
+**目标：** 建立一套长期可用的 AI 原生 Obsidian 知识系统，支持 GitHub 同步、知识图谱、研究处理、项目、提示词、记忆和内容工作流。
+**成功标准：** Vault 结构有效、脚本检查通过、GitHub 推送成功、Obsidian Git 正常加载、收集模板可用，并且真实研究资料可以无重复地完成分类。
 
-## Completed
+## 已完成
 
-- [x] Audited Obsidian, Vault, permissions, GitHub CLI, repository, plugins, and directory structure.
-- [x] Created the core information architecture.
-- [x] Added Inbox, Research, Content, Projects, Prompt Library, Templates, AI Memory, AI Context, and Archive systems.
-- [x] Added Topic Hubs, tagging rules, internal-link rules, and a knowledge map.
-- [x] Added Research Cleaner, Knowledge Graph updater, project generator, and knowledge-base audit.
-- [x] Installed system Git and Obsidian Git 2.38.6.
-- [x] Created Web Clipper and MarkDownload integration assets.
-- [x] Initialized the local Git repository and connected the private GitHub remote.
+- [x] 检查 Obsidian、Vault、权限、GitHub CLI、仓库、插件和目录结构。
+- [x] 建立核心信息架构。
+- [x] 建立 Inbox、Research、Content、Projects、提示词库、模板、AI 记忆、AI 上下文和归档系统。
+- [x] 建立主题中心、标签规则、内部链接规则和知识地图。
+- [x] 建立研究资料清洗器、知识图谱更新器、项目生成器和知识库巡检。
+- [x] 安装系统 Git 和 Obsidian Git 2.38.6。
+- [x] 配置 Web Clipper，并用其替代不可用的 MarkDownload。
+- [x] 初始化本地 Git 仓库并连接私有 GitHub 远端。
+- [x] 验证 Obsidian Git Pull 和 Commit-and-sync。
 
-## Outstanding
+## 待办事项
 
-- [ ] Restart Obsidian and confirm Obsidian Git loads.
-- [ ] Import `Research Capture.json` into the Web Clipper.
-- [ ] Install/configure MarkDownload if it will be used.
-- [ ] Confirm primary research domains.
-- [ ] Confirm publishing platforms, formats, audience, and writing style.
-- [ ] Import real research and review the first generated taxonomy and Topic Hub indexes.
+- [x] 重启 Obsidian 并确认 Obsidian Git 正常加载。
+- [x] 将 `Research Capture.json` 导入 Web Clipper。
+- [x] 确认使用 Web Clipper 替代 MarkDownload。
+- [ ] 确认主要研究领域。
+- [ ] 确认发布平台、内容形式、受众和写作风格。
+- [ ] 导入真实研究资料，并检查首次生成的分类和主题中心索引。
 
-## Next action
+## 下一步行动
 
-- [ ] Restart Obsidian, then run one manual Obsidian Git pull/commit-and-sync and verify the result.
+- [ ] 补充研究领域和内容定位，然后导入第一批真实研究资料。
 
-## Risks
+## 风险
 
-| Risk | Impact | Mitigation |
+| 风险 | 影响 | 应对措施 |
 | --- | --- | --- |
-| The supplied path points to a parent folder rather than the active Vault. | Agents or tools may write to the wrong level. | Treat `C:\ob仓库\ob仓库` as authoritative unless the user explicitly restructures it. |
-| Research domains are unknown. | A speculative folder tree would create classification debt. | Keep `General` as the only fallback until evidence or user input establishes domains. |
-| Browser extension settings are profile-local. | Web Clipper and MarkDownload cannot be fully reproduced from Git alone. | Keep importable templates and explicit setup guides in the Vault. |
+| 提供的路径指向父目录，而不是实际 Vault。 | Agent 或工具可能写入错误层级。 | 除非用户明确调整结构，否则以 `C:\ob仓库\ob仓库` 为准。 |
+| 研究领域尚未明确。 | 猜测式目录会造成分类负担。 | 在证据或用户输入确立领域前，只保留 `General` 兜底分类。 |
+| 浏览器扩展配置保存在本地浏览器配置中。 | 仅靠 Git 无法完整复现 Web Clipper 设置。 | 在 Vault 中保留可导入模板和明确配置指南。 |
 
-## Decisions
+## 决策
 
-| Date | Decision | Rationale |
+| 日期 | 决策 | 理由 |
 | --- | --- | --- |
-| 2026-07-24 | Use one primary folder plus multiple topic tags and links. | Avoid duplicate notes while supporting cross-domain discovery. |
-| 2026-07-24 | Keep raw downloads immutable. | Preserve evidence and make cleaning reversible. |
-| 2026-07-24 | Do not force-restart Obsidian. | Avoid disrupting open windows or unsaved work. |
+| 2026-07-24 | 使用一个主目录，配合多个主题标签和链接。 | 避免重复笔记，同时支持跨领域发现。 |
+| 2026-07-24 | 保持原始下载资料不可修改。 | 保留证据，并使清洗过程可逆。 |
+| 2026-07-24 | 不强制重启 Obsidian。 | 避免干扰已打开窗口或未保存工作。 |
 
-## Related research
+## 相关研究
 
 - [[98-AI-Context/Knowledge Map]]
 - [[98-AI-Context/AI Operating Context]]

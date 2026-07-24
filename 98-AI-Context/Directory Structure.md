@@ -5,7 +5,7 @@ tags:
   - system/structure
 ---
 
-# Directory Structure
+# 完整目录结构
 
 ```text
 C:\ob仓库\ob仓库

@@ -1,61 +1,61 @@
-# AI Agent Operating Rules
+# AI Agent 运行规则
 
-This vault is a durable knowledge system shared by humans and AI agents such as Codex, Claude Code, and Cursor.
+本 Vault 是人类与 Codex、Claude Code、Cursor 等 AI Agent 共同使用的长期知识系统。
 
-## Read first
+## 开始前必读
 
-Before substantial work, read:
+执行重要工作前阅读：
 
 1. `98-AI-Context/AI Operating Context.md`
 2. `98-AI-Context/Current Focus.md`
 3. `98-AI-Context/Prompt Rules.md`
-4. the relevant project `Project-Status.md`
+4. 相关项目的 `Project-Status.md`
 
-## Information architecture
+## 信息架构
 
-- Every note has exactly one primary folder classification.
-- A note may have multiple `topic/...` tags and internal links.
-- Raw captures stay in `00-Inbox/Downloaded` and must never be overwritten.
-- Cleaned copies go to `00-Inbox/Cleaned`; promoted research goes to one folder under `04-Research`.
-- Topic hubs live in `04-Research/Topic-Hubs`.
-- Reusable prompts live in exactly one category under `89-Prompts`.
-- Completed or inactive material moves to `99-Archive`; do not delete durable knowledge without explicit approval.
+- 每篇笔记只能有一个主目录分类。
+- 一篇笔记可以有多个 `topic/...` 标签和内部链接。
+- 原始收集资料保存在 `00-Inbox/Downloaded`，绝不能覆盖。
+- 清洗副本进入 `00-Inbox/Cleaned`；正式研究资料归入 `04-Research` 下的一个目录。
+- 主题中心保存在 `04-Research/Topic-Hubs`。
+- 可复用提示词只能放在 `89-Prompts` 下的一个分类中。
+- 已完成或停用的资料移入 `99-Archive`；未经明确批准，不删除长期知识。
 
-## Durable memory
+## 长期记忆
 
-Do not save chat transcripts. Update memory only for information likely to remain useful:
+不要保存聊天记录。只用可能长期有用的信息更新记忆：
 
-- decisions and their rationale;
-- proven workflows and best practices;
-- recurring lessons and user preferences;
-- project state, risks, and next actions;
-- stable knowledge summaries or meaningful trend changes.
+- 决策及理由；
+- 已验证的工作流和最佳实践；
+- 重复出现的经验和用户偏好；
+- 项目状态、风险和下一步；
+- 稳定的知识摘要或重要趋势变化。
 
-Write these updates to `97-AI-Memory`, `98-AI-Context`, or the relevant `06-Projects/<Project>/Project-Status.md`.
+将这些更新写入 `97-AI-Memory`、`98-AI-Context` 或相关的 `06-Projects/<项目>/Project-Status.md`。
 
-## Research and sources
+## 研究与来源
 
-- Preserve source meaning and distinguish source facts from analysis.
-- Keep `source_url`, author, publication date, and capture date when available.
-- The Research Cleaner may improve structure, but must not delete, summarize, or rewrite source claims.
-- Add relevant `topic/...` tags and links to Topic Hubs.
-- Prefer internal links that help retrieval; avoid decorative link spam.
+- 保留来源原意，区分来源事实和分析。
+- 尽可能保留 `source_url`、作者、发布日期和收集日期。
+- 研究资料清洗器可以改善结构，但不能删除、总结或改写来源观点。
+- 添加相关 `topic/...` 标签和主题中心链接。
+- 优先添加有助于检索的内部链接，避免装饰性链接堆积。
 
-## Projects
+## 项目
 
-Every project directory must contain `Project-Status.md` with:
+每个项目目录都必须包含 `Project-Status.md`，记录：
 
-- current status;
-- completed work;
-- outstanding tasks;
-- next action;
-- risks;
-- decisions.
+- 当前状态；
+- 已完成工作；
+- 待办事项；
+- 下一步行动；
+- 风险；
+- 决策。
 
-Update it after meaningful progress.
+取得实质进展后更新。
 
-## Verification
+## 验证
 
-- Review changed files before committing.
-- Run `98-AI-Context/Automation/Knowledge-Base-Audit.ps1` after structural changes.
-- Do not commit secrets, tokens, local caches, or machine-specific workspace state.
+- 提交前审查变更文件。
+- 结构调整后运行 `98-AI-Context/Automation/Knowledge-Base-Audit.ps1`。
+- 不提交秘密信息、令牌、本地缓存或机器专属工作区状态。

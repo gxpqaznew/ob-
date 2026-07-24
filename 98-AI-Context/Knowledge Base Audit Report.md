@@ -7,34 +7,34 @@ tags:
   - system/audit
 ---
 
-# Knowledge Base Audit Report
+# 知识库巡检报告
 
-> Generated: 2026-07-24 12:12:19
+> 生成时间：2026-07-24 12:12:19
 
-## Score
+## 评分
 
 **100/100**
 
-## Inventory
+## 文件统计
 
 - Directories: 30
 - Files: 93
 - Markdown notes: 65
 - Research notes excluding indexes and hubs: 0
 
-## Duplicate content
+## 重复内容
 
 - None.
 
-## Classification conflicts
+## 分类冲突
 
 - None.
 
-## Abnormal filenames
+## 异常文件名
 
 - None.
 
-## Structurally empty directories
+## 结构性空目录
 
 > Directories containing only `.gitkeep` are listed so intentional placeholders remain visible.
 
@@ -49,21 +49,21 @@ tags:
 - `89-Prompts/Video Script`
 - `89-Prompts/Workflow`
 
-## Junk files
+## 垃圾文件
 
 - None.
 
-## Orphan notes
+## 孤立笔记
 
 > Approximation based on incoming wikilinks; archives, indexes, hubs, templates, home pages, reports, and AGENTS files are excluded.
 
 - None.
 
-## Broken internal links
+## 失效内部链接
 
 - None.
 
-## Topic frequency
+## 主题频率
 
 - `topic/obsidian`: 5
 - `topic/prompt`: 3
@@ -75,6 +75,6 @@ tags:
 - `topic/claude-code`: 1
 - `topic/workflow`: 1
 
-## Recommended action
+## 建议行动
 
-- Import real research material before creating domain-specific taxonomies or additional Topic Hubs.
+- 在创建领域专属分类或更多主题中心前，先导入真实研究资料。
