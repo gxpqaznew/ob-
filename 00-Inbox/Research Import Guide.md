@@ -6,34 +6,34 @@ tags:
   - system/inbox
 ---
 
-# Research Import Guide
+# 研究资料导入指南
 
-## Entry points
+## 导入入口
 
-- Browser articles: use the Web Clipper `Research Capture` template.
-- Markdown downloads: save with MarkDownload into `00-Inbox/Downloaded`.
-- Files and images: place them in `00-Inbox/Attachments`.
-- Quick notes: create them in `00-Inbox`, then triage them.
+- 浏览器文章：使用 Web Clipper 的 `Research Capture` 模板。
+- Markdown 下载：保存到 `00-Inbox/Downloaded`。
+- 文件和图片：放入 `00-Inbox/Attachments`。
+- 临时笔记：先创建在 `00-Inbox`，随后进行分拣。
 
-## Required source metadata
+## 必须保留的来源信息
 
-Keep as much of the following as the source provides:
+尽可能保留来源提供的以下信息：
 
-- title;
-- source URL;
-- author or publisher;
-- publication time;
-- capture time;
-- full original content.
+- 标题；
+- 来源网址；
+- 作者或发布者；
+- 发布时间；
+- 收集时间；
+- 完整原文。
 
-Never overwrite the original file in `Downloaded`. Run the Research Cleaner to create a separate cleaned copy.
+绝不覆盖 `Downloaded` 中的原始文件。运行研究资料清洗器，生成独立的清洗副本。
 
-## Run the cleaner
+## 运行清洗器
 
-From PowerShell:
+在 PowerShell 中运行：
 
 ```powershell
 powershell.exe -NoProfile -ExecutionPolicy Bypass -File ".\98-AI-Context\Automation\Research-Cleaner.ps1"
 ```
 
-Add `-Promote` only when you want cleaned copies moved into their primary research category.
+只有在需要把清洗后的副本移动到主研究分类时，才添加 `-Promote`。

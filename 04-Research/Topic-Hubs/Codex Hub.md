@@ -7,19 +7,19 @@ tags:
   - system/topic-hub
 ---
 
-# Codex Hub
+# Codex 主题中心
 
-## Scope
+## 范围
 
-Research, workflows, configuration, and projects involving OpenAI Codex.
+与 OpenAI Codex 有关的研究、工作流、配置和项目。
 
-## Research notes
+## 研究笔记
 
 <!-- AUTO-INDEX:START -->
 
 <!-- AUTO-INDEX:END -->
 
-## Related hubs
+## 相关主题中心
 
 - [[AI Agent Hub]]
 - [[Workflow Hub]]

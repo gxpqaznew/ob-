@@ -5,27 +5,27 @@ tags:
   - workflow/project
 ---
 
-# Project System Guide
+# 项目系统指南
 
-## Required structure
+## 必需结构
 
 ```text
 06-Projects/
-└─ <Project Name>/
+└─ <项目名称>/
    └─ Project-Status.md
 ```
 
-Additional files are allowed only when they directly support the project.
+只有直接支持项目的文件才允许加入项目目录。
 
-## Update rule
+## 更新规则
 
-After meaningful work, update:
+完成有实际意义的工作后，更新：
 
-- current status;
-- completed items;
-- outstanding tasks;
-- the single next action;
-- risks;
-- decisions and rationale.
+- 当前状态；
+- 已完成事项；
+- 待办事项；
+- 唯一的下一步行动；
+- 风险；
+- 决策及理由。
 
-Research remains in `04-Research`; link to it from the project instead of duplicating it.
+研究资料保留在 `04-Research`；项目通过链接引用，不复制资料。

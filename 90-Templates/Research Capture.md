@@ -14,11 +14,11 @@ tags:
 # {{title}}
 
 > [!source]
-> **Source:** {{url}}
-> **Author:** {{author}}
-> **Published:** {{published}}
-> **Captured:** {{date:YYYY-MM-DD HH:mm}}
+> **来源：** {{url}}
+> **作者：** {{author}}
+> **发布时间：** {{published}}
+> **收集时间：** {{date:YYYY-MM-DD HH:mm}}
 
-## Original content
+## 原始内容
 
 {{content}}

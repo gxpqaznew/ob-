@@ -5,6 +5,6 @@ tags:
   - content/idea
 ---
 
-# Ideas Index
+# 创意索引
 
-Store one idea per note. Include the target audience, problem, core claim, supporting research, intended format, and next validation step.
+每篇笔记只记录一个创意。包括目标受众、问题、核心主张、支持性研究、计划形式和下一步验证方式。

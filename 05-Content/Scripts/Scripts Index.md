@@ -5,6 +5,6 @@ tags:
   - content/script
 ---
 
-# Scripts Index
+# 脚本索引
 
-Drafts belong here after the idea has a clear audience, promise, evidence base, and intended channel.
+当创意已经明确受众、价值承诺、证据基础和发布渠道后，在这里编写草稿。

@@ -6,13 +6,13 @@ tags:
   - topic/prompt
 ---
 
-# Prompt Rules
+# 提示词规则
 
-- State the goal, relevant context, constraints, and acceptance criteria.
-- Ask agents to inspect existing files before making structural assumptions.
-- Require verification proportional to risk.
-- Distinguish facts, inference, and recommendations.
-- Preserve raw sources and cite their origin.
-- Request a concise change summary, validation result, risks, and next action.
-- Never include secrets or credentials.
-- Store only reusable prompts in `89-Prompts`; one-off instructions stay with the task or project.
+- 明确说明目标、相关上下文、限制条件和验收标准。
+- 要求 Agent 在假设结构前先检查现有文件。
+- 验证强度应与风险相匹配。
+- 区分事实、推断和建议。
+- 保留原始来源并注明出处。
+- 要求提供简洁的变更摘要、验证结果、风险和下一步行动。
+- 绝不包含秘密信息或凭据。
+- `89-Prompts` 只保存可复用提示词；一次性指令留在任务或项目中。

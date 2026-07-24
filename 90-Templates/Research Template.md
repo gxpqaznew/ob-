@@ -18,21 +18,21 @@ updated: "{{date:YYYY-MM-DD}}"
 # {{title}}
 
 > [!source]
-> **Source:**
-> **Author:**
-> **Published:**
-> **Captured:** {{date:YYYY-MM-DD}}
+> **来源：**
+> **作者：**
+> **发布时间：**
+> **收集时间：** {{date:YYYY-MM-DD}}
 
-## Topic Hubs
+## 主题中心
 
 -
 
-## Research notes
+## 研究笔记
 
-## Evidence
+## 证据
 
-## Open questions
+## 待解决问题
 
-## Related notes
+## 相关笔记
 
 -

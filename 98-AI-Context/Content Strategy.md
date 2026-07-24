@@ -5,17 +5,17 @@ tags:
   - context/content
 ---
 
-# Content Strategy
+# 内容策略
 
-## Default pipeline
+## 默认流程
 
-`Research → Insight → Idea → Brief → Script → Publish → Measure → Reuse`
+`研究 → 洞察 → 创意 → 简报 → 脚本 → 发布 → 衡量 → 复用`
 
-## Principles
+## 原则
 
-- Every factual piece links to source research.
-- A piece serves a defined audience and problem.
-- One core idea may be adapted across platforms without duplicating research.
-- Published results and feedback feed back into future briefs.
+- 每个事实性内容都链接到来源研究。
+- 每个作品服务明确的受众和问题。
+- 同一个核心创意可以跨平台改编，但不重复复制研究资料。
+- 发布效果和反馈应回流到未来的内容简报。
 
-Platform, cadence, positioning, and primary formats still require user input.
+平台、发布频率、定位和主要形式仍需用户补充。

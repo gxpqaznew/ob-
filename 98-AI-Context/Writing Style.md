@@ -5,19 +5,19 @@ tags:
   - context/style
 ---
 
-# Writing Style
+# 写作风格
 
-## Confirmed
+## 已确认
 
-- Use clear Chinese.
-- Lead with the outcome.
-- Prefer concrete, executable language.
-- Avoid empty advice and unnecessary complexity.
+- 使用清晰中文。
+- 先给出结果。
+- 优先使用具体、可执行的语言。
+- 避免空泛建议和不必要的复杂表达。
 
-## Needed from user
+## 待用户补充
 
-- Formal, conversational, or analytical tone:
-- Preferred article or video examples:
-- Typical length:
-- Use of first person:
-- Words, clichés, or styles to avoid:
+- 正式、对话式或分析式语气：
+- 喜欢的文章或视频样例：
+- 常用篇幅：
+- 是否使用第一人称：
+- 需要避免的词语、套话或风格：

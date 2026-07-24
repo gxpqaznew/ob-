@@ -5,14 +5,14 @@ tags:
   - context/platform
 ---
 
-# Platform Strategy
+# 平台策略
 
-No publishing platform has been confirmed. Platform-specific directories and workflows should not be created until the primary and secondary channels are known.
+尚未确认发布平台。在明确主要和次要渠道前，不创建平台专属目录和工作流。
 
-## Needed from user
+## 待用户补充
 
-- Primary platform:
-- Secondary platforms:
-- Long-form or short-form priority:
-- Publishing cadence:
-- Existing audience or account links:
+- 主要平台：
+- 次要平台：
+- 长内容或短内容优先：
+- 发布频率：
+- 现有受众或账号链接：

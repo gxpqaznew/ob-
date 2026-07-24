@@ -7,19 +7,19 @@ tags:
   - system/topic-hub
 ---
 
-# GitHub Hub
+# GitHub 主题中心
 
-## Scope
+## 范围
 
-Version control, repositories, collaboration, review, automation, and knowledge-base backup.
+版本控制、代码仓库、协作、审查、自动化和知识库备份。
 
-## Research notes
+## 研究笔记
 
 <!-- AUTO-INDEX:START -->
 
 <!-- AUTO-INDEX:END -->
 
-## Related hubs
+## 相关主题中心
 
 - [[Obsidian Hub]]
 - [[AI Agent Hub]]

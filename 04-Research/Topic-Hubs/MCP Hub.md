@@ -7,19 +7,19 @@ tags:
   - system/topic-hub
 ---
 
-# MCP Hub
+# MCP 主题中心
 
-## Scope
+## 范围
 
-Model Context Protocol servers, tools, connectors, permissions, and integration patterns.
+模型上下文协议的服务器、工具、连接器、权限和集成模式。
 
-## Research notes
+## 研究笔记
 
 <!-- AUTO-INDEX:START -->
 
 <!-- AUTO-INDEX:END -->
 
-## Related hubs
+## 相关主题中心
 
 - [[AI Agent Hub]]
 - [[Workflow Hub]]

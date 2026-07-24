@@ -6,28 +6,28 @@ tags:
   - topic/obsidian
 ---
 
-# Web Clipper Setup
+# Web Clipper 配置
 
-The importable template is:
+可导入模板：
 
 `98-AI-Context/Integrations/Research Capture.json`
 
-## Browser steps
+## 浏览器操作
 
-1. Install the official **Obsidian Web Clipper** extension.
-2. Open its settings and select the Vault `ob仓库`.
-3. Open **Templates** and import `Research Capture.json`.
-4. Confirm the destination path is `00-Inbox/Downloaded`.
-5. Clip one article and verify that title, URL, author, publication time, capture time, and full content are present.
+1. 安装官方 **Obsidian Web Clipper** 扩展。
+2. 打开设置并选择 Vault `ob仓库`。
+3. 打开 **Templates**，导入 `Research Capture.json`。
+4. 确认目标路径为 `00-Inbox/Downloaded`。
+5. 剪藏一篇文章，确认标题、网址、作者、发布时间、收集时间和完整正文均已保留。
 
-The browser extension stores its configuration in the browser profile, not in the Vault. The JSON file in this Vault is the durable source-of-truth and backup for that manual import.
+浏览器扩展把配置保存在浏览器配置文件中，而不是 Vault 中。本 Vault 内的 JSON 文件是长期有效的配置源和导入备份。
 
-## After capture
+## 收集后处理
 
-Run:
+运行：
 
 ```powershell
 powershell.exe -NoProfile -ExecutionPolicy Bypass -File ".\98-AI-Context\Automation\Research-Cleaner.ps1"
 ```
 
-Raw captures remain unchanged in `Downloaded`; cleaned Markdown is created in `Cleaned`.
+原始资料在 `Downloaded` 中保持不变；清洗后的 Markdown 创建在 `Cleaned` 中。

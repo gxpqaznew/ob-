@@ -1,5 +1,5 @@
 ---
-title: "<Project Name>"
+title: "<项目名称>"
 type: project-status
 status: proposed
 owner:
@@ -9,38 +9,38 @@ tags:
   - project
 ---
 
-# <Project Name> — Project Status
+# <项目名称> — 项目状态
 
-## Current status
+## 当前状态
 
-**Stage:** Proposed
-**Objective:**
-**Success criteria:**
+**阶段：** 待评估
+**目标：**
+**成功标准：**
 
-## Completed
-
-- [ ]
-
-## Outstanding
+## 已完成
 
 - [ ]
 
-## Next action
+## 待办事项
 
 - [ ]
 
-## Risks
+## 下一步行动
 
-| Risk | Impact | Mitigation |
+- [ ]
+
+## 风险
+
+| 风险 | 影响 | 应对措施 |
 | --- | --- | --- |
 |  |  |  |
 
-## Decisions
+## 决策
 
-| Date | Decision | Rationale |
+| 日期 | 决策 | 理由 |
 | --- | --- | --- |
 |  |  |  |
 
-## Related research
+## 相关研究
 
 -

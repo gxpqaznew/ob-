@@ -5,6 +5,6 @@ tags:
   - memory/trend
 ---
 
-# Current Trends
+# 当前趋势
 
-Add a trend only when it is supported by dated evidence and materially affects current work. Include the observation date and source links.
+只有当趋势有带日期的证据支持，并会实质影响当前工作时才记录。必须附上观察日期和来源链接。

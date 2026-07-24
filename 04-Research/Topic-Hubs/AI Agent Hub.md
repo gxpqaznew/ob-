@@ -7,19 +7,19 @@ tags:
   - system/topic-hub
 ---
 
-# AI Agent Hub
+# AI Agent 主题中心
 
-## Scope
+## 范围
 
-Agents that inspect context, use tools, take actions, verify results, and preserve useful state.
+能够检查上下文、使用工具、执行操作、验证结果并保存有效状态的 Agent。
 
-## Research notes
+## 研究笔记
 
 <!-- AUTO-INDEX:START -->
 
 <!-- AUTO-INDEX:END -->
 
-## Related hubs
+## 相关主题中心
 
 - [[Codex Hub]]
 - [[Claude Code Hub]]

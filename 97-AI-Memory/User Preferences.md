@@ -5,13 +5,13 @@ tags:
   - memory/preference
 ---
 
-# User Preferences
+# 用户偏好
 
-- Primary language: Chinese.
-- Prefer direct execution over advice-only responses.
-- Knowledge base should remain long-term, extensible, and AI-agent friendly.
-- GitHub synchronization, knowledge graphs, and content creation are core requirements.
-- Avoid meaningless folders and speculative categorization.
-- Keep one primary folder classification with multiple topic tags.
-- Do not save chat transcripts; preserve only durable decisions, workflows, lessons, preferences, and project state.
-- Clearly identify manual steps and missing inputs.
+- 主要语言：中文。
+- 优先直接执行，不只提供建议。
+- 知识库应长期可用、易于扩展，并适合 AI Agent 使用。
+- GitHub 同步、知识图谱和内容创作是核心需求。
+- 避免无意义目录和猜测式分类。
+- 一个文件只保留一个主目录分类，可使用多个主题标签。
+- 不保存聊天记录；只保留长期有效的决策、工作流、经验、偏好和项目状态。
+- 明确标注需要手动完成的步骤和缺失信息。

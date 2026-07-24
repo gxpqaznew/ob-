@@ -5,6 +5,6 @@ tags:
   - memory/ideas
 ---
 
-# Ideas
+# 想法
 
-Only durable, reusable system or product ideas belong here. Content ideas belong in `05-Content/Ideas`.
+这里只保存长期有效、可复用的系统或产品想法。内容创意放在 `05-Content/Ideas`。

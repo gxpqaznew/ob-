@@ -6,35 +6,35 @@ tags:
   - topic/prompt
 ---
 
-# Prompt Library Guide
+# 提示词库指南
 
-## Store a prompt when
+## 何时保存提示词
 
-- it is reusable across more than one task;
-- inputs and expected outputs can be stated clearly;
-- success can be evaluated;
-- it contains durable workflow knowledge rather than one conversation.
+- 可以在多个任务中复用；
+- 可以清楚描述输入和预期输出；
+- 可以评估执行效果；
+- 包含长期有效的工作流知识，而不是一次性对话。
 
-## Required fields
+## 必填字段
 
-- purpose;
-- compatible agent or model, if constrained;
-- required inputs;
-- prompt text;
-- output contract;
-- quality checks;
-- version and change notes.
+- 用途；
+- 如有限制，注明兼容的 Agent 或模型；
+- 必需输入；
+- 提示词正文；
+- 输出规范；
+- 质量检查；
+- 版本和变更记录。
 
-## Classification
+## 分类规则
 
-A prompt lives in exactly one category folder. Use topic tags and links for secondary uses.
+每个提示词只能放在一个分类目录中。次要用途通过主题标签和链接表达。
 
-## Improvement loop
+## 改进循环
 
-1. Run the prompt on a representative task.
-2. Record failure modes.
-3. Change one meaningful element.
-4. Re-test.
-5. Update version and change notes.
+1. 在有代表性的任务上运行提示词。
+2. 记录失败模式。
+3. 每次只修改一个关键要素。
+4. 重新测试。
+5. 更新版本和变更记录。
 
-Never store API keys, tokens, personal secrets, or raw private conversations.
+绝不保存 API 密钥、令牌、个人秘密或原始私人对话。

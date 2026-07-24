@@ -7,27 +7,27 @@ tags:
   - topic/obsidian
 ---
 
-# GitHub Sync
+# GitHub 同步
 
-## Repository
+## 仓库
 
-- Remote: `https://github.com/gxpqaznew/ob-.git`
-- Visibility: private.
-- Local Vault: `C:\ob仓库\ob仓库`
+- 远端：`https://github.com/gxpqaznew/ob-.git`
+- 可见性：私有。
+- 本地 Vault：`C:\ob仓库\ob仓库`
 
-## Sync policy
+## 同步策略
 
-- Pull on Obsidian startup.
-- Automatic backup every 10 minutes.
-- Push after a successful automatic backup.
-- Pull before push.
-- Do not commit workspace layout, caches, trash, temporary files, or secrets.
+- Obsidian 启动时拉取。
+- 每 10 分钟自动备份。
+- 自动备份成功后推送。
+- 推送前先拉取。
+- 不提交工作区布局、缓存、回收站、临时文件或秘密信息。
 
-## Recovery
+## 冲突恢复
 
-If automatic sync reports a conflict:
+如果自动同步报告冲突：
 
-1. Stop editing the conflicting note.
-2. Open Git history and inspect both versions.
-3. Preserve both source variants when meaning is uncertain.
-4. Resolve, run the audit, commit, and push.
+1. 停止编辑冲突笔记。
+2. 打开 Git 历史并检查两个版本。
+3. 如果含义不确定，保留两个来源版本。
+4. 解决冲突后运行巡检，再提交并推送。

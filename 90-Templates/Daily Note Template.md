@@ -7,24 +7,24 @@ tags:
 
 # {{date:YYYY-MM-DD}}
 
-## Current focus
+## 当前重点
 
-## Tasks
+## 任务
 
 - [ ]
 
-## Notes
+## 笔记
 
-## Decisions
+## 决策
 
-## Durable updates
+## 长期信息更新
 
-- AI Memory:
-- AI Context:
-- Project status:
+- AI 记忆：
+- AI 上下文：
+- 项目状态：
 
-## End-of-day review
+## 每日复盘
 
-- Completed:
-- Learned:
-- Next:
+- 已完成：
+- 学到：
+- 下一步：

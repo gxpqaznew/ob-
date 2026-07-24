@@ -16,15 +16,15 @@ tags:
 
 > [!source]
 > **URL:**
-> **Author:**
-> **Publisher:**
-> **Published:**
-> **Captured:** {{date:YYYY-MM-DD}}
+> **作者：**
+> **发布者：**
+> **发布时间：**
+> **收集时间：** {{date:YYYY-MM-DD}}
 
-## Original content
+## 原始内容
 
-## Citations and locations
+## 引用与位置
 
-## Related research
+## 相关研究
 
 -

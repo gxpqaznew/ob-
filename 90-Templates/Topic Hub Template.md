@@ -1,5 +1,5 @@
 ---
-title: "<Topic> Hub"
+title: "<主题> 中心"
 type: topic-hub
 topic: "<topic>"
 status: active
@@ -8,27 +8,27 @@ tags:
   - system/topic-hub
 ---
 
-# <Topic> Hub
+# <主题> 中心
 
-## Definition
+## 定义
 
-## Why it matters
+## 为什么重要
 
-## Core concepts
+## 核心概念
 
-## Key tools
+## 关键工具
 
-## Workflows
+## 工作流
 
-## Business models
+## 商业模式
 
-## Platforms
+## 平台
 
-## Research notes
+## 研究笔记
 
 <!-- AUTO-INDEX:START -->
 <!-- AUTO-INDEX:END -->
 
-## Related hubs
+## 相关主题中心
 
 -

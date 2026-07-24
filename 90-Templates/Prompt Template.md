@@ -12,32 +12,32 @@ updated: "{{date:YYYY-MM-DD}}"
 
 # {{title}}
 
-## Purpose
+## 用途
 
-## Required inputs
+## 必需输入
 
-## Prompt
+## 提示词
 
 ```text
-Role:
+角色：
 
-Goal:
+目标：
 
-Context:
+上下文：
 
-Constraints:
+限制条件：
 
-Output:
+输出：
 
-Quality checks:
+质量检查：
 ```
 
-## Output contract
+## 输出规范
 
-## Test case
+## 测试用例
 
-## Failure modes
+## 失败模式
 
-## Change notes
+## 变更记录
 
-- 0.1.0 — Initial draft.
+- 0.1.0 — 初始草稿。

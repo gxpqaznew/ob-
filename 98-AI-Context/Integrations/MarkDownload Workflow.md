@@ -6,51 +6,51 @@ tags:
   - topic/obsidian
 ---
 
-# MarkDownload Workflow
+# 网页收集替代工作流
 
-> MarkDownload's original Chrome extension is no longer available because Chrome reports that it does not follow current extension best practices. Do not bypass Chrome's protection. This Vault uses the imported **Obsidian Web Clipper / Research Capture** template instead.
+> MarkDownload 原版 Chrome 扩展已因不符合当前扩展最佳实践而停用。不要绕过 Chrome 的保护。本 Vault 改用已导入的 **Obsidian Web Clipper / Research Capture** 模板。
 
-## Pipeline
+## 流程
 
 ```text
-Web page
+网页
   ↓ Obsidian Web Clipper / Research Capture
 00-Inbox/Downloaded
   ↓ Research-Cleaner.ps1
 00-Inbox/Cleaned
-  ↓ triage / -Promote
-04-Research/<one primary category>
+  ↓ 分拣 / -Promote
+04-Research/<一个主分类>
   ↓
-topic tags + Topic Hub links
+主题标签 + 主题中心链接
 ```
 
-## Capture settings
+## 收集设置
 
-- Destination: `00-Inbox/Downloaded`
-- Preserve title, source URL, author, capture time, and article body.
-- Use the imported `Research Capture` template.
-- Do not overwrite existing files without confirmation.
+- 目标目录：`00-Inbox/Downloaded`
+- 保留标题、来源网址、作者、收集时间和文章正文。
+- 使用已导入的 `Research Capture` 模板。
+- 未经确认不覆盖现有文件。
 
-No MarkDownload installation is required.
+无需安装 MarkDownload。
 
-## Clean
+## 清洗
 
 ```powershell
 Set-Location -LiteralPath "C:\ob仓库\ob仓库"
 powershell.exe -NoProfile -ExecutionPolicy Bypass -File ".\98-AI-Context\Automation\Research-Cleaner.ps1"
 ```
 
-To promote directly after reviewing the taxonomy:
+检查分类规则后，如需直接归入研究目录：
 
 ```powershell
 powershell.exe -NoProfile -ExecutionPolicy Bypass -File ".\98-AI-Context\Automation\Research-Cleaner.ps1" -Promote
 ```
 
-## Guarantees
+## 保证
 
-- raw source files are never edited;
-- cleaned output records the source path and SHA-256 hash;
-- title, author, URL, publication date, and capture date are retained when detected;
-- conservative formatting recognizes common headings and numbered lists;
-- long paragraphs may receive extra line breaks, but source wording is not rewritten or removed;
-- topic tags and Topic Hub links are added from `Research Taxonomy.json`.
+- 永不编辑原始来源文件；
+- 清洗输出记录来源路径和 SHA-256 哈希；
+- 能识别时保留标题、作者、网址、发布日期和收集日期；
+- 保守格式化会识别常见标题和编号列表；
+- 长段落可以增加换行，但不改写或删除原文；
+- 根据 `Research Taxonomy.json` 添加主题标签和主题中心链接。

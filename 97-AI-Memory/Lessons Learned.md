@@ -5,7 +5,7 @@ tags:
   - memory/lesson
 ---
 
-# Lessons Learned
+# 经验教训
 
-- The actual Obsidian Vault is `C:\ob仓库\ob仓库`, one level below the originally supplied parent path.
-- Empty knowledge bases do not provide enough evidence to infer real research domains; a neutral fallback is safer than speculative folders.
+- 实际 Obsidian Vault 是 `C:\ob仓库\ob仓库`，位于最初提供路径的下一层。
+- 空知识库没有足够证据推断真实研究领域；中性兜底分类比猜测目录更安全。

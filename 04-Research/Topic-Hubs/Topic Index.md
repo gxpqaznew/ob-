@@ -5,20 +5,20 @@ tags:
   - system/topic-hub
 ---
 
-# Topic Index
+# 主题索引
 
-Topic Hubs connect research across folder boundaries. A research note keeps one primary category but may link to several hubs.
+主题中心用于连接不同目录中的研究资料。一篇研究笔记只有一个主分类，但可以链接到多个主题中心。
 
-## Seed hubs
+## 初始主题中心
 
-- [[04-Research/Topic-Hubs/AI Agent Hub|AI Agent]]
-- [[04-Research/Topic-Hubs/Codex Hub|Codex]]
-- [[04-Research/Topic-Hubs/Claude Code Hub|Claude Code]]
-- [[04-Research/Topic-Hubs/Prompt Hub|Prompt]]
-- [[04-Research/Topic-Hubs/Workflow Hub|Workflow]]
-- [[04-Research/Topic-Hubs/MCP Hub|MCP]]
-- [[04-Research/Topic-Hubs/Obsidian Hub|Obsidian]]
-- [[04-Research/Topic-Hubs/GitHub Hub|GitHub]]
-- [[04-Research/Topic-Hubs/Content Creation Hub|Content Creation]]
+- [[04-Research/Topic-Hubs/AI Agent Hub|AI Agent 主题中心]]
+- [[04-Research/Topic-Hubs/Codex Hub|Codex 主题中心]]
+- [[04-Research/Topic-Hubs/Claude Code Hub|Claude Code 主题中心]]
+- [[04-Research/Topic-Hubs/Prompt Hub|提示词主题中心]]
+- [[04-Research/Topic-Hubs/Workflow Hub|工作流主题中心]]
+- [[04-Research/Topic-Hubs/MCP Hub|MCP 主题中心]]
+- [[04-Research/Topic-Hubs/Obsidian Hub|Obsidian 主题中心]]
+- [[04-Research/Topic-Hubs/GitHub Hub|GitHub 主题中心]]
+- [[04-Research/Topic-Hubs/Content Creation Hub|内容创作主题中心]]
 
-These are system seed topics. New hubs should be created only when repeated evidence appears in `04-Research`, not for every isolated tag.
+这些是系统初始主题。只有当 `04-Research` 中反复出现相关证据时才创建新主题中心，不要为每个孤立标签建页。

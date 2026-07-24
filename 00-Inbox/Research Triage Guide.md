@@ -6,21 +6,21 @@ tags:
   - system/inbox
 ---
 
-# Research Triage Guide
+# 研究资料分拣指南
 
-Process Inbox items using this order:
+按照以下顺序处理收件箱内容：
 
-1. **Discardable** — duplicate, broken, or irrelevant; move to system trash only after review.
-2. **Reference** — useful source material; clean and promote to `04-Research`.
-3. **Actionable** — creates a task; link it from the relevant project status.
-4. **Creative** — contains a content angle; create or link an idea in `05-Content/Ideas`.
-5. **Durable memory** — captures a decision, lesson, preference, or proven workflow; update `97-AI-Memory`.
+1. **可丢弃** — 重复、损坏或无关内容；审核后再移入系统回收站。
+2. **参考资料** — 有价值的来源；清洗后归入 `04-Research`。
+3. **可执行事项** — 能形成任务；从相关项目状态页链接。
+4. **创作素材** — 包含内容角度；在 `05-Content/Ideas` 中创建或链接创意。
+5. **长期记忆** — 包含决策、经验、偏好或已验证工作流；更新 `97-AI-Memory`。
 
-## Definition of done
+## 完成标准
 
-- one primary folder;
-- source metadata present where available;
-- relevant topic tags added;
-- at least one useful internal link;
-- no raw source was overwritten;
-- Inbox copy is either retained as raw evidence or archived.
+- 只有一个主分类目录；
+- 尽可能补全来源信息；
+- 添加相关主题标签；
+- 至少包含一个有效内部链接；
+- 不覆盖任何原始资料；
+- Inbox 副本作为原始证据保留或归档。

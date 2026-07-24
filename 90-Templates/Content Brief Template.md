@@ -13,30 +13,30 @@ tags:
 
 # {{title}}
 
-## Audience
+## 目标受众
 
-## Problem
+## 用户问题
 
-## Promise
+## 价值承诺
 
-## Core claim
+## 核心主张
 
-## Hook options
+## 开头钩子
 
 1.
 
-## Supporting research
+## 支持性研究
 
 -
 
-## Outline
+## 内容大纲
 
 1.
 
-## Call to action
+## 行动号召
 
-## Production requirements
+## 制作要求
 
-## Distribution and repurposing
+## 分发与内容改编
 
-## Success metric
+## 成功指标

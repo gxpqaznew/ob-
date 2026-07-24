@@ -5,13 +5,13 @@ tags:
   - system/templates
 ---
 
-# Template Index
+# 模板索引
 
-- [[90-Templates/Research Template|Research Template]]
-- [[90-Templates/Daily Note Template|Daily Note Template]]
-- [[90-Templates/Project Template|Project Template]]
-- [[90-Templates/Prompt Template|Prompt Template]]
-- [[90-Templates/Source Template|Source Template]]
-- [[90-Templates/Content Brief Template|Content Brief Template]]
-- [[90-Templates/Topic Hub Template|Topic Hub Template]]
-- [[90-Templates/Research Capture|Research Capture]]
+- [[90-Templates/Research Template|研究模板]]
+- [[90-Templates/Daily Note Template|每日笔记模板]]
+- [[90-Templates/Project Template|项目模板]]
+- [[90-Templates/Prompt Template|提示词模板]]
+- [[90-Templates/Source Template|来源模板]]
+- [[90-Templates/Content Brief Template|内容简报模板]]
+- [[90-Templates/Topic Hub Template|主题中心模板]]
+- [[90-Templates/Research Capture|研究资料收集模板]]

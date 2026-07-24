@@ -7,19 +7,19 @@ tags:
   - system/topic-hub
 ---
 
-# Obsidian Hub
+# Obsidian 主题中心
 
-## Scope
+## 范围
 
-Obsidian architecture, capture, plugins, templates, synchronization, retrieval, and knowledge graphs.
+Obsidian 架构、资料收集、插件、模板、同步、检索和知识图谱。
 
-## Research notes
+## 研究笔记
 
 <!-- AUTO-INDEX:START -->
 
 <!-- AUTO-INDEX:END -->
 
-## Related hubs
+## 相关主题中心
 
 - [[Workflow Hub]]
 - [[GitHub Hub]]

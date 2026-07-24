@@ -5,13 +5,13 @@ tags:
   - context/content
 ---
 
-# Channel Positioning
+# 频道定位
 
-## Needed from user
+## 待用户补充
 
-- Target audience:
-- Audience problem:
-- Distinct point of view:
-- Desired reputation:
-- Primary language and region:
-- Topics explicitly out of scope:
+- 目标受众：
+- 受众问题：
+- 独特观点：
+- 希望建立的认知：
+- 主要语言和地区：
+- 明确不涉及的主题：

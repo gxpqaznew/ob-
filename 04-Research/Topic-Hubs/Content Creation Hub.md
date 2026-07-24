@@ -7,21 +7,21 @@ tags:
   - system/topic-hub
 ---
 
-# Content Creation Hub
+# 内容创作主题中心
 
-## Scope
+## 范围
 
-Research-to-content systems, ideation, scripting, publishing, distribution, and learning from results.
+从研究到内容的系统，包括创意、脚本、发布、分发和效果复盘。
 
-## Research notes
+## 研究笔记
 
 <!-- AUTO-INDEX:START -->
 
 <!-- AUTO-INDEX:END -->
 
-## Related hubs
+## 相关主题中心
 
 - [[Prompt Hub]]
 - [[Workflow Hub]]
 - [[Obsidian Hub]]
-- [[05-Content/Content Index|Content System]]
+- [[05-Content/Content Index|内容系统]]

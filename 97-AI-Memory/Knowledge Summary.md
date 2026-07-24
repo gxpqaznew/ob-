@@ -5,6 +5,6 @@ tags:
   - memory/summary
 ---
 
-# Knowledge Summary
+# 知识摘要
 
-The vault currently contains its operating system and seed knowledge graph. Domain knowledge has not yet been imported.
+当前 Vault 已包含完整运行体系和初始知识图谱，但尚未导入领域知识。

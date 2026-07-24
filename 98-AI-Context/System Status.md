@@ -6,50 +6,50 @@ tags:
   - system/status
 ---
 
-# System Status
+# 系统状态
 
-## Completed
+## 已完成
 
-| Check | Result |
+| 检查项 | 结果 |
 | --- | --- |
-| Obsidian | Installed and running, version 1.12.7 |
-| Active Vault | `C:\ob仓库\ob仓库` |
-| Vault access | Read and write verified |
-| Filesystem owner | `DESKTOP-HUMO4H9\gxp` |
-| Effective permission | Authenticated users have Modify; Administrators and SYSTEM have Full Control |
-| System Git | Installed, version 2.55.0 |
-| GitHub CLI | Installed, version 2.96.0 |
-| GitHub authentication | Logged in as `gxpqaznew` |
-| GitHub repository | `gxpqaznew/ob-`, private, viewer permission ADMIN |
-| Git remote | `https://github.com/gxpqaznew/ob-.git` |
-| Git push | Verified on `main` |
-| Obsidian Git | Installed, version 2.38.6 |
-| Obsidian Git settings | Pull on startup; 10-minute pull; 10-minute commit-and-sync; pull before push |
-| Obsidian Git runtime | Loaded in the correct `ob仓库` Vault |
-| Obsidian Git manual verification | Pull returned up to date; Commit-and-sync pushed successfully |
-| Web Clipper | Installed in Chrome, detected version 1.7.1 |
-| Web Clipper template | `Research Capture` imported; target folder is `00-Inbox/Downloaded` |
-| MarkDownload | Original Chrome extension unavailable; safely replaced by Obsidian Web Clipper |
-| Automation scripts | Parsed and executed successfully |
-| Research Cleaner | Sample-tested; raw SHA-256 unchanged; metadata, tags, and Hub links generated |
-| Knowledge Base Audit | 100/100 structural score |
+| Obsidian | 已安装并运行，版本 1.12.7 |
+| 当前 Vault | `C:\ob仓库\ob仓库` |
+| Vault 访问 | 已验证读写 |
+| 文件系统所有者 | `DESKTOP-HUMO4H9\gxp` |
+| 有效权限 | 已认证用户可修改；Administrators 和 SYSTEM 拥有完全控制 |
+| 系统 Git | 已安装，版本 2.55.0 |
+| GitHub CLI | 已安装，版本 2.96.0 |
+| GitHub 身份验证 | 已登录 `gxpqaznew` |
+| GitHub 仓库 | `gxpqaznew/ob-`，私有，当前用户权限为 ADMIN |
+| Git 远端 | `https://github.com/gxpqaznew/ob-.git` |
+| Git 推送 | 已在 `main` 分支验证 |
+| Obsidian Git | 已安装，版本 2.38.6 |
+| Obsidian Git 设置 | 启动时拉取；每 10 分钟拉取和提交同步；推送前拉取 |
+| Obsidian Git 运行状态 | 已在正确的 `ob仓库` Vault 中加载 |
+| Obsidian Git 手动验证 | Pull 显示最新；Commit-and-sync 推送成功 |
+| Web Clipper | 已安装到 Chrome，检测版本 1.7.1 |
+| Web Clipper 模板 | 已导入 `Research Capture`；目标目录为 `00-Inbox/Downloaded` |
+| MarkDownload | 原版扩展不可用；已安全替换为 Obsidian Web Clipper |
+| 自动化脚本 | 解析和执行成功 |
+| 研究资料清洗器 | 已测试；原始 SHA-256 未变化；可生成元数据、标签和主题中心链接 |
+| 知识库巡检 | 结构评分 100/100 |
 
-## Not completed
+## 未完成
 
-- No real research corpus exists yet, so evidence-based domain folders and frequency-derived Topic Hubs cannot be generated.
+- 尚无真实研究语料，因此暂时无法生成基于证据的领域目录和频率主题中心。
 
-## Manual actions
+## 手动操作
 
-- None for browser capture. Use the imported `Research Capture` template in Obsidian Web Clipper.
+- 网页收集无需额外手动配置。使用 Obsidian Web Clipper 中已导入的 `Research Capture` 模板。
 
-## User information still needed
+## 仍需用户补充
 
-- Primary research domains.
-- Primary and secondary publishing platforms.
-- Target audience and channel positioning.
-- Preferred content formats and publishing cadence.
-- Writing-style examples and constraints.
+- 主要研究领域。
+- 主要和次要发布平台。
+- 目标受众和频道定位。
+- 偏好的内容形式和发布频率。
+- 写作风格样例和限制。
 
-## Path warning
+## 路径提醒
 
-The supplied path `C:\ob仓库` is a parent directory. The existing Obsidian configuration is inside `C:\ob仓库\ob仓库`, so that nested path is the authoritative Vault unless the user explicitly restructures it.
+提供的路径 `C:\ob仓库` 是父目录。现有 Obsidian 配置位于 `C:\ob仓库\ob仓库`，除非用户明确调整结构，否则以后以该内层路径作为正式 Vault。

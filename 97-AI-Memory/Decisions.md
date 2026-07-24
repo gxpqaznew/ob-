@@ -5,11 +5,11 @@ tags:
   - memory/decisions
 ---
 
-# Decisions
+# 决策
 
-| Date | Decision | Rationale |
+| 日期 | 决策 | 理由 |
 | --- | --- | --- |
-| 2026-07-24 | Use one primary folder plus multiple topic tags and links. | Prevent duplicate classification while preserving cross-domain discovery. |
-| 2026-07-24 | Treat `00-Inbox/Downloaded` as immutable source evidence. | Cleaning must never destroy or silently alter the original. |
-| 2026-07-24 | Use `General` until actual research domains are confirmed. | Avoid a speculative directory tree. |
-| 2026-07-24 | Do not store AI chat transcripts as memory. | Keep memory compact, durable, and useful to future agents. |
+| 2026-07-24 | 使用一个主分类目录，配合多个主题标签和链接。 | 避免重复分类，同时支持跨领域发现。 |
+| 2026-07-24 | 将 `00-Inbox/Downloaded` 视为不可修改的原始证据。 | 清洗过程不能破坏或暗中修改原文。 |
+| 2026-07-24 | 在真实研究领域确认前使用 `General`。 | 避免建立没有依据的目录树。 |
+| 2026-07-24 | 不把 AI 聊天记录保存为记忆。 | 保持记忆精简、长期有效，并对未来 Agent 有用。 |

@@ -5,8 +5,8 @@ tags:
   - memory/future
 ---
 
-# Future Ideas
+# 未来想法
 
-- Add domain-specific research taxonomies after real subject areas are confirmed.
-- Add channel-specific content pipelines after publishing platforms are confirmed.
-- Consider semantic search or embeddings only after the Markdown-first foundation contains enough material to justify them.
+- 确认真实研究领域后，增加领域专属研究分类。
+- 确认发布平台后，增加渠道专属内容流程。
+- 只有当 Markdown 知识库积累了足够内容后，才考虑语义搜索或向量嵌入。

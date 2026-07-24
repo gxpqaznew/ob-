@@ -5,7 +5,7 @@ tags:
   - memory/workflow
 ---
 
-# Workflows
+# 工作流
 
 - [[00-Inbox/Research Collection Workflow]]
 - [[00-Inbox/Research Triage Guide]]

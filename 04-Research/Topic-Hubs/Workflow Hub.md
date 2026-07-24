@@ -7,19 +7,19 @@ tags:
   - system/topic-hub
 ---
 
-# Workflow Hub
+# 工作流主题中心
 
-## Scope
+## 范围
 
-Repeatable sequences of actions, checks, handoffs, and automation.
+可重复执行的操作、检查、交接和自动化流程。
 
-## Research notes
+## 研究笔记
 
 <!-- AUTO-INDEX:START -->
 
 <!-- AUTO-INDEX:END -->
 
-## Related hubs
+## 相关主题中心
 
 - [[AI Agent Hub]]
 - [[Prompt Hub]]

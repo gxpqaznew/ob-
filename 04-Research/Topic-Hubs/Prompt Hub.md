@@ -7,21 +7,21 @@ tags:
   - system/topic-hub
 ---
 
-# Prompt Hub
+# 提示词主题中心
 
-## Scope
+## 范围
 
-Prompt design, reusable instruction patterns, output contracts, evaluation, and failure analysis.
+提示词设计、可复用指令模式、输出规范、评估和失败分析。
 
-## Research notes
+## 研究笔记
 
 <!-- AUTO-INDEX:START -->
 
 <!-- AUTO-INDEX:END -->
 
-## Related hubs
+## 相关主题中心
 
 - [[AI Agent Hub]]
 - [[Workflow Hub]]
 - [[Content Creation Hub]]
-- [[89-Prompts/Prompt Index|Prompt Library]]
+- [[89-Prompts/Prompt Index|提示词库]]

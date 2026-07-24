@@ -5,18 +5,18 @@ tags:
   - context/user
 ---
 
-# About Me
+# 关于我
 
-## Confirmed
+## 已确认
 
-- Preferred language: Chinese.
-- GitHub account: `gxpqaznew`.
-- Vault purpose: AI-native research, knowledge graph, projects, and content creation.
+- 首选语言：中文。
+- GitHub 账号：`gxpqaznew`。
+- Vault 用途：AI 原生研究、知识图谱、项目管理和内容创作。
 
-## Needed from user
+## 待用户补充
 
-- Primary research domains:
-- Professional background:
-- Current products or businesses:
-- Preferred depth and technical level:
-- Privacy or compliance constraints:
+- 主要研究领域：
+- 专业背景：
+- 当前产品或业务：
+- 偏好的内容深度和技术水平：
+- 隐私或合规限制：

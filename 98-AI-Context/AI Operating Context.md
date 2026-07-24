@@ -5,37 +5,37 @@ tags:
   - system/agent
 ---
 
-# AI Operating Context
+# AI 运行上下文
 
-## Mission
+## 使命
 
-Maintain a durable, source-aware, Markdown-first knowledge base that supports research, AI agents, projects, and content production.
+维护一套长期可用、保留来源、以 Markdown 为核心，并支持研究、AI Agent、项目和内容生产的知识库。
 
-## Retrieval order
+## 检索顺序
 
-1. Read the relevant project status.
-2. Search Topic Hubs and `04-Research`.
-3. Check `97-AI-Memory` for prior decisions and lessons.
-4. Check `98-AI-Context` for user strategy and preferences.
-5. Use external sources only when the task requires current or missing evidence.
+1. 阅读相关项目状态。
+2. 搜索主题中心和 `04-Research`。
+3. 在 `97-AI-Memory` 中检查历史决策和经验。
+4. 在 `98-AI-Context` 中检查用户策略和偏好。
+5. 只有任务需要最新信息或缺失证据时才使用外部来源。
 
-## Write policy
+## 写入规则
 
-- Capture raw material in Inbox.
-- Promote a note into one primary folder only.
-- Use multiple topic tags and internal links for cross-cutting meaning.
-- Update memory only with durable information.
-- Update project state after meaningful progress.
-- Preserve provenance.
+- 原始资料先进入 Inbox。
+- 一篇笔记只能归入一个主目录。
+- 使用多个主题标签和内部链接表达跨领域关系。
+- 只用长期有效的信息更新记忆。
+- 取得实质进展后更新项目状态。
+- 保留来源和处理记录。
 
-## Agent handoff contract
+## Agent 交接规范
 
-At the end of substantial work, record:
+完成重要工作后记录：
 
-- what changed;
-- what was verified;
-- decisions and rationale;
-- open risks;
-- the next concrete action.
+- 发生了哪些变更；
+- 验证了哪些内容；
+- 决策及理由；
+- 尚未解决的风险；
+- 下一项具体行动。
 
-Do not store the entire conversation.
+不要保存完整对话。

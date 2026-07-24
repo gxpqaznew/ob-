@@ -5,6 +5,6 @@ tags:
   - memory/project
 ---
 
-# Successful Projects
+# 成功项目
 
-Record completed projects only when their reusable methods, outcomes, and evidence are known.
+只有当已完成项目具备明确的可复用方法、成果和证据时才记录。
