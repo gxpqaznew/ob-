@@ -1,7 +1,7 @@
 ﻿---
 type: audit-report
 status: complete
-generated_at: "2026-07-24 12:10:28"
+generated_at: "2026-07-24 12:12:19"
 score: 100
 tags:
   - system/audit
@@ -9,7 +9,7 @@ tags:
 
 # Knowledge Base Audit Report
 
-> Generated: 2026-07-24 12:10:28
+> Generated: 2026-07-24 12:12:19
 
 ## Score
 
@@ -18,8 +18,8 @@ tags:
 ## Inventory
 
 - Directories: 30
-- Files: 91
-- Markdown notes: 63
+- Files: 93
+- Markdown notes: 65
 - Research notes excluding indexes and hubs: 0
 
 ## Duplicate content

@@ -22,6 +22,8 @@ tags:
 - [[98-AI-Context/AI Operating Context|AI Operating Context]]
 - [[98-AI-Context/Knowledge Map|Knowledge Map]]
 - [[98-AI-Context/Knowledge Base Audit Report|Knowledge Base Audit Report]]
+- [[98-AI-Context/Directory Structure|Directory Structure]]
+- [[98-AI-Context/System Status|System Status]]
 
 ## Integrations
 
